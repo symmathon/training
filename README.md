@@ -1,0 +1,3 @@
+Started learning C++ and C# a couple weeks ago.
+
+This is the first time I uploaded to github and though I hope it won't be the last it's likely to be so...
