@@ -7,7 +7,7 @@ using namespace std;
                          "Enter second comparator: ",
                          "How high you wanna get?" };
     string result = "";
-    int comp[3], buzzCount=0, fizzCount=0, fbCount=0;
+    int comp[3], buzzCount=0, fizzCount=0, fbCount=0; //comp[2] gave problems with buzzCount, thought comp[2] would be enough because it starts at 0???
 
 int main(){
     for (int i = 0; i < 3; ++i)
